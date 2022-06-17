@@ -11,3 +11,5 @@ Yo can copy the *first* workbook link at
 https://github.com/ryanstoner1/hybridADpluto/blob/main/enzymezygote1.jl 
 ```
 and so on.
+
+Startup will probably take a couple of minutes. 
