@@ -1,4 +1,4 @@
-# hybrid autodiff
+# hybrid AD
 Here are some Pluto.jl workbooks for a first cut at a temporary workaround for getting fast autodiff with mutation and BLAS operations by combining
 ``Enzyme`` and ``Zygote`` via ``Enzyme`` pullbacks.
 
@@ -6,5 +6,5 @@ Here are some Pluto.jl workbooks for a first cut at a temporary workaround for g
 
 To **run** these notebooks in **Binder** use [Pluto on Binder!](https://pluto-on-binder.glitch.me/)
 
-
-
+Copy the *first* workbook link at `https://github.com/ryanstoner1/hybridADpluto/blob/main/enzymezygote1.jl`
+and go to [Pluto on Binder!](https://pluto-on-binder.glitch.me/). 
