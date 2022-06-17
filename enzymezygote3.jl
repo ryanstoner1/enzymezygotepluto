@@ -177,7 +177,7 @@ This approach becomes feasible when there are *many* more blocks with mutation t
 # ╔═╡ 17ab01ff-f6a7-4c92-9cb4-5fae04c77ebe
 md"""
 ---
-If you'd like to see it here's the code that regexes through the simple example to produce the code from **Part 2**. Here's the output:
+If you'd like to see it [here](https://github.com/ryanstoner1/hybridADpluto/blob/main/enzymezygote_build.jl)'s the code that runs through the simple example to generate the code from **Part 2**. Here's the output:
 """
 
 # ╔═╡ 37565b52-2a63-452c-ad66-305c6048d5d0
